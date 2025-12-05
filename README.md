@@ -25,8 +25,8 @@
 
 ## ☕ Любимые кофейные картинки:
 
-![Coffee 1](https://media.giphy.com/media/3o6gE5aY9yFG5D2oXS/giphy.gif)  
-![Coffee 2](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+![Coffee 1](https://images.unsplash.com/photo-1426260193283-c4daed7c2024?auto=format&fit=crop&w=800&q=80)
+![Coffee 2](https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80)
 
 ---
 
